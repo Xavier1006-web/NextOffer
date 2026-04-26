@@ -1,1 +1,1 @@
-{"name":"NextOffer","short_name":"NextOffer","description":"Track and manage your job applications","start_url":"/NextOffer/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/NextOffer/","icons":[]}
+{"name":"NextOffer","short_name":"NextOffer","description":"Track and manage your job applications","start_url":"/NextOffer/?mode=real","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","lang":"en","scope":"/NextOffer/","icons":[]}
